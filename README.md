@@ -1,2 +1,3 @@
 # hello-world
-First contact with Github
+First (second) contact with Github
+Edited README
